@@ -1,0 +1,42 @@
+#ele1 {
+    font-size: 50px;
+}
+
+#a {
+    height: 200px;
+    width: 200px;
+    background-color: #0000ff;
+    margin: 1rem;
+}
+
+#b {
+    height: 200px;
+    width: 200px;
+    background-color:#ff0000;
+    margin: 1rem;
+}
+
+#c {
+    height: 200px;
+    width: 200px;
+    background-color: #00ff00;
+    margin: 1rem;
+}
+
+#d {
+    height: 200px;
+    width: 200px;
+    background-color:#ffff00;
+    margin: 1rem;
+}
+
+#key {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+    margin: 1rem;
+}
+
+body {
+    min-height: 100vh;
+}
